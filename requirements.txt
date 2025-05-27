@@ -1,0 +1,6 @@
+numpy
+matplotlib
+random
+os
+csv
+math
